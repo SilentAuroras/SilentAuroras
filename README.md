@@ -5,10 +5,4 @@
 ----
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentAuroras&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-# 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=SilentAuroras&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=SilentAuroras&theme=dark&hide_border=false)<br/><br></br>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
