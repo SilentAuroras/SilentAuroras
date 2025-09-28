@@ -5,5 +5,3 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentAuroras&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-contributor-stats.vercel.app/api?username=SilentAuroras&limit=5&theme=dark&combine_all_yearly_contributions=true)
